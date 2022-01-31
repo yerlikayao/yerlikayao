@@ -3,7 +3,7 @@
 <i>❝Making Things Happen"</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-Hi, I'm [Onur Yerlikaya](https://linkedin.com/in/onuryerlikaya), a VP of Software Engineering at Demirören Teknoloji (https://www.demirorenteknoloji.com/). Love taking care of things related to development.
+Hi, I'm [Onur Yerlikaya](https://linkedin.com/in/onuryerlikaya), a VP of Software Engineering at Demirören Teknoloji (https://www.demirorenteknoloji.com/). Love taking care of things related to software development.
 
 ### :octocat: Github Statistics
 <p align="left">
