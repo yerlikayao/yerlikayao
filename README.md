@@ -3,7 +3,7 @@
 <i>❝Making Things Happen</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-Hi, I'm [Onur Yerlikaya](https://linkedin.com/in/onuryerlikaya), a ex-VP of Software Engineering , now acting as a CTO . Love taking care of things related to software development.
+Hi, I'm [Onur Yerlikaya](https://linkedin.com/in/onuryerlikaya) acting as a Group CTO . Love taking care of things related to software development - technologies.
 
 ### :octocat: Github Statistics
 <p align="left">
