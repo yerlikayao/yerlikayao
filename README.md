@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/onuryerlikaya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://onur-yerlikaya.medium.com" target="_blank">
+  <a href="https://medium.com/@onur-yerlikaya" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="https://twitter.com/onurtwt" target="_blank">
