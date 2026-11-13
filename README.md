@@ -43,6 +43,7 @@ I grow technology companies and the teams behind them. 20 years in software, the
 ### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [‍ About Me](https://medium.com/@onur-yerlikaya/first-post-on-medium-hiorayyy-95c3e0034002?source=rss-4d7ece250bb7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Core stack
